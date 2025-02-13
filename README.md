@@ -1,4 +1,4 @@
-Joseph Collado
+Joseph Collado<br>
 Homework 2 Part A for CSC 350H @ BMCC
 
 Assignment Instructions:
